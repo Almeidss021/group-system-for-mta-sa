@@ -1,0 +1,13 @@
+<meta>
+    <script src='library/shared/global.lua' type='shared' />
+
+    <!-- Client -->
+    <script src='library/client/util_c.lua' type='client' />
+    <script src='library/client/main.lua' type='client' />
+
+    <!-- Server -->
+    <script src='library/server/main.lua' type='server' />
+
+    <!-- Font -->
+    <file src='library/assets/font/font.ttf' />
+</meta>
